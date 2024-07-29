@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hashan Alwis</h1>
 <h3 align="center">An enthusiastic and dedicated fresh graduate with a passion for machine learning, and other areas relevant to data science.</h3>
-
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashan-alwis" alt="hashan-alwis" /></a> </p>
-
+-->
 - 🌱 I’m currently learning **Tensorflow | PyTorch | Scikit-learn | OpenCV | Flask**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
